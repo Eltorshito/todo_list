@@ -1,1 +1,1 @@
-# todo_list
+Préparation de la todo list
