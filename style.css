@@ -1,0 +1,30 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkred;
+    width: 100%;
+
+}
+
+.todo-container{
+    text-align: center;
+}
+
+input{
+    display: flexbox;
+    center
+    
+}
+button{
+    background-color: salmon;
+    border-color: black;
+    cursor: pointer;
+    
+}
+
+ul{
+
+}
+
+li{
+    
+}
