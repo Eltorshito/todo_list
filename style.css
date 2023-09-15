@@ -2,18 +2,17 @@ body{
     font-family: 'Courier New', Courier, monospace;
     background-color: darkred;
     width: 100%;
+    text-align: center;
 
 }
+
+
 
 .todo-container{
     text-align: center;
 }
 
-input{
-    display: flexbox;
-    
-    
-}
+
 button{
     background-color: salmon;
     border-color: black;
@@ -21,10 +20,21 @@ button{
     
 }
 
-ul{
+.completed{
+    color: rgb(109, 106, 106);
+    text-decoration: line-through;
+}
+
+.done{
+    color: green;
 
 }
 
-li{
-    
+.undo{
+
+    color: blue
+}
+
+.delete{
+    color: red;
 }
